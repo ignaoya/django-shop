@@ -133,3 +133,6 @@ dmypy.json
 
 # Django database migrations
 **/migrations/*
+
+# Media folder
+**/media/*
